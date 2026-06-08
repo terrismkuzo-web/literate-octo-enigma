@@ -62,3 +62,40 @@ HTML5
 CSS3
 JavaScript
 Git & GitHub
+Project Structure
+Gym-Fitness/
+│
+├── index.html
+├── about.html
+├── services.html
+├── join.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── images/
+│
+└── README.md
+How to Run the Project
+Download or clone the repository.
+Open the project folder.
+Launch index.html in a web browser.
+Navigate through the website using the menu.
+Future Enhancements
+User login system
+BMI calculator
+Online booking system
+Workout planner
+Database integration
+Mobile app version
+Author
+
+Bheki Mkuzo
+Programming/Web Development Student
+
+License
+
+This project was developed for educational purposes as part of a web development assignment.
