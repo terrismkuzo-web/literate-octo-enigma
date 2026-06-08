@@ -45,17 +45,17 @@ GitHub
 Part 2: Website Development and Implementation
 Features Implemented
 
-✅ Responsive website layout
+*Responsive website layout
 
-✅ Navigation menu linking all pages
+*Navigation menu linking all pages
 
-✅ Fitness-themed design
+*Fitness-themed design
 
-✅ Join Membership form
+*Join Membership form
 
-✅ CSS styling for improved appearance
+*CSS styling for improved appearance
 
-✅ JavaScript functionality for user interaction
+*JavaScript functionality for user interaction
 
 Technologies Used
 HTML5
