@@ -99,3 +99,22 @@ Programming/Web Development Student
 License
 
 This project was developed for educational purposes as part of a web development assignment.
+
+References
+
+MDN Web Docs. (2026). *HTML: HyperText Markup Language*. Mozilla. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML (Accessed: 15 June 2026).
+
+MDN Web Docs. (2026). *CSS: Cascading Style Sheets*. Mozilla. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS (Accessed: 15 June 2026).
+
+MDN Web Docs. (2026). *JavaScript Guide*. Mozilla. Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide (Accessed: 15 June 2026).
+
+W3Schools. (2026). *HTML Tutorial*. Available at: https://www.w3schools.com/html/ (Accessed: 15 June 2026).
+
+W3Schools. (2026). *CSS Tutorial*. Available at: https://www.w3schools.com/css/ (Accessed: 15 June 2026).
+
+W3Schools. (2026). *JavaScript Tutorial*. Available at: https://www.w3schools.com/js/ (Accessed: 15 June 2026).
+
+Microsoft. (2026). *Visual Studio Code Documentation*. Available at: https://code.visualstudio.com/docs (Accessed: 15 June 2026).
+
+GitHub. (2026). *GitHub Documentation*. Available at: https://docs.github.com/ (Accessed: 15 June 2026).
+
